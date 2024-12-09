@@ -1,0 +1,5 @@
+C:\Users\רות\Desktop\לימודים\CustomCli\CustomCli\obj\Debug\net7.0\CustomCli.csproj.AssemblyReference.cache
+C:\Users\רות\Desktop\לימודים\CustomCli\CustomCli\obj\Debug\net7.0\CustomCli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רות\Desktop\לימודים\CustomCli\CustomCli\obj\Debug\net7.0\CustomCli.AssemblyInfoInputs.cache
+C:\Users\רות\Desktop\לימודים\CustomCli\CustomCli\obj\Debug\net7.0\CustomCli.AssemblyInfo.cs
+C:\Users\רות\Desktop\לימודים\CustomCli\CustomCli\obj\Debug\net7.0\CustomCli.csproj.CoreCompileInputs.cache
